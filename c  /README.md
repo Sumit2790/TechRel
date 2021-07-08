@@ -1,2 +1,0 @@
-# TechRel
-TechRel_C++
